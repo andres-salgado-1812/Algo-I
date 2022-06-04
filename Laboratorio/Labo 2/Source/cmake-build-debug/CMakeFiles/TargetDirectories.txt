@@ -1,0 +1,3 @@
+C:/Users/AFSP/Documents/University/Subjects/2º Cuatrimestre/Algoritmos y Estructuras de Datos I/Laboratori/Laboratorio 2 - Pasaje de parametros/Source/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AFSP/Documents/University/Subjects/2º Cuatrimestre/Algoritmos y Estructuras de Datos I/Laboratori/Laboratorio 2 - Pasaje de parametros/Source/cmake-build-debug/CMakeFiles/Source.dir
+C:/Users/AFSP/Documents/University/Subjects/2º Cuatrimestre/Algoritmos y Estructuras de Datos I/Laboratori/Laboratorio 2 - Pasaje de parametros/Source/cmake-build-debug/CMakeFiles/rebuild_cache.dir

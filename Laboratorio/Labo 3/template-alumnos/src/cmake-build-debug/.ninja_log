@@ -1,0 +1,9 @@
+# ninja log v5
+910	1156	6760612672751243	src.exe	f0fa29b858f658a9
+5	764	6760612668860480	CMakeFiles/src.dir/main.cpp.obj	39abfbc3b675dc46
+30	843	6760612669648359	CMakeFiles/src.dir/vectores.cpp.obj	e98a8e38a5ace205
+26	910	6760612670326540	CMakeFiles/src.dir/generador.cpp.obj	dc3b0a883bfc055d
+19	548	6760697485855050	CMakeFiles/src.dir/main.cpp.obj	c4c6ccf931b65c06
+3	553	6760697485964761	CMakeFiles/src.dir/generador.cpp.obj	4c4747c2998d7db
+22	563	6760697486064496	CMakeFiles/src.dir/vectores.cpp.obj	aacd9f91e25baf3e
+564	787	6760697488268593	src.exe	f0fa29b858f658a9
